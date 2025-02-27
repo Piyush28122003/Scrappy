@@ -35,5 +35,5 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/scrappy.git
+   git clone https://github.com/Piyush28122003/scrappy.git
    ```
